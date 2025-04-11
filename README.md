@@ -127,4 +127,5 @@ class MyCustomDashboardPage extends Page
 > In order to enable the widgets for the default filament dashboard, you need to set the `filament_dashboard` option to `true` in the config file `filanitics.php` for each widget you want to enable.
 ---
 ### **2025-04-05**
-I had to remove the original package since many of you started to use it, and I was getting way too many messages, however, as I said, please use the one from [@bezhanSalleh](https://github.com/bezhanSalleh), and support that one, this is for personal use.
+I had to remove the original package since many of you started to use it, and I was getting way too many messages, however, as I said, please use the one from [@bezhanSalleh](https://github.com/bezhanSalleh), and support that one, this is for 
+personal use. this thing isn't working...
